@@ -1,0 +1,4 @@
+database dbname=netshackle
+sql netshackle.sql
+
+netshackle
